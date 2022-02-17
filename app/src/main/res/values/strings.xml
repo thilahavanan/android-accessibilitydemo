@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Accessibility Demo</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Submit</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="text_paragraph">Accessibility is an important part of any app. Whether you\'re developing a new app or improving an existing one, consider the accessibility of your app\'s components.
+    By integrating accessibility features and services\, you can improve your app\'s usability, particularly for users with disabilities.</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="firstlabel">Name</string>
+    <string name="secondlabel">Phone Number</string>
+    <string name="thirdlabel">Address</string>
+    <string name="firstvalue">Android</string>
+    <string name="secondvalue">(895)-623-2141</string>
+    <string name="thirdvalue">42, Riche street, Chennai, Tamilnadu.</string>
+    <string name="logo_describtion">Accessibility Demo logo</string>
+    <string name="header_text">Edit Details</string>
+    <string name="username">UserName</string>
+    <string name="hint_username">Enter UserName</string>
+</resources>
